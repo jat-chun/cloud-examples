@@ -1,12 +1,10 @@
+
 spring:
   application:
-    name: monitoring-service
+    name: oauth2-server
   cloud:
     config:
       fail-fast: true
       uri: http://localhost:8205
-#      discovery:
-#        enabled: true
-#        service-id: config-server
   profiles:
     active: dev
