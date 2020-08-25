@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: oauth2-server
+    name: user-service
   cloud:
     config:
       fail-fast: true

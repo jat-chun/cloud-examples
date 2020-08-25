@@ -25,6 +25,7 @@
         <module>zipkin-service</module>
         <module>monitoring-service</module>
         <module>oauth2-server</module>
+        <module>user-service</module>
     </modules>
 
     <dependencies>
